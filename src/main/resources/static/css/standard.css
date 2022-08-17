@@ -1,0 +1,23 @@
+
+
+body {
+	background-color: #B7BCE2;
+}
+
+div.container{
+	border: solid 2px gray;
+	
+}
+
+nav{
+	border-bottom: solid black 2px;
+	border-radius: 7px;
+}
+
+.container {
+	background-color: rgba(255, 255, 255, 0.8);
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
